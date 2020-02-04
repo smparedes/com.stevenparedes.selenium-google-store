@@ -1,4 +1,4 @@
-*This is a cucumber jvm selenium sample Project.* 
+**This is a cucumber jvm selenium sample Project.** 
 
 It contains a sample feature file that adds an item to the cart in the Google store.
 
