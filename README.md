@@ -11,4 +11,5 @@ After cloning the project, perform the following steps to run the tests:
 3. In the command line type: mvn clean install or mvn clean test.
 
 You should see the Chrome browser appear assuming you have the correct chrome driver. 
-Currently I am running the chromedriver version for Chrom 79.
+
+*Note: Currently, I am running the chromedriver version for Chrome 79.*
